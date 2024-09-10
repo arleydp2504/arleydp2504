@@ -22,6 +22,8 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arleydp2504&langs_count=8)
+
 Apaixonado por tecnologia, esportes e games, acredito que podemos mudar a vida das pessoas através da programação e dos esportes!!!
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee)](arleyedfisica@gmail.com)
